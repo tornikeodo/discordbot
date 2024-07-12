@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder, ActivityType, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent, GatewayIntentBits.DirectMessages] });
 
-const token = 'MTI2MTI0MjkyMjU1NzI0NzQ4OQ.GbCWBt.AFog8XdU_r4nbiYaVEzuru5EHXXtgj9NQWvJYs';
+const token = 'MTI2MTI0MjkyMjU1NzI0NzQ4OQ.G98Pnl.ANRDqM-JQSOCumjLuFJZ0aWBZBJ9Z_OeanOpZA';
 const clientId = '1261242922557247489'; // Your bot's client ID
 const guildId = '1260910227155325010'; // The ID of your server
 
